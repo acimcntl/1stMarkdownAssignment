@@ -1,0 +1,63 @@
+1st Markdown Assignment
+================
+Ayuson, Cabanayan, Cantal, San Luis, See
+7/10/2021
+7/11/2021
+
+## Angeline Cantal
+
+### 1. Aside from the reasons mentioned in class, why do we need to study and analyze data?
+-   It is important to study and analyze data since everything around
+    us—the things we see, smell, feel, hear, taste—are all considered as
+    kinds of data. These pieces of information that we often collect and
+    interpret in our day-to-day lives can not only help us, but also
+    other people and for the future generations to come. Data is also
+    known to be one of the foundations of research. Through data and
+    research, we are able to answer relevant questions and make better
+    decisions.
+    
+### 2. Cite atleast one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
+-   One instance or application where data science is used is the
+    prediction of diseases. Data regarding patients or previous history
+    or variants of diseases have been used to predict the presence of a
+    disease in a person. Data science has helped humanity detect
+    diseases much faster to be able to prevent the worsening of a
+    person’s condition.
+
+### 3. Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+| Topic                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Availability of Data                                                                                                                                                                   | Statistical Method  | Beneficiary                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------|
+| Social Media Analytics | Now that we are in a digital age, social media has been a major part of our lives. Social media is now always being intersected with data science . This data can be used to support marketing strategies, know the effectivity of campaigns, and to personalize advertisements and content. If I were to propose a particular study, I would want to dwell on the analysis of K-pop fans using Twitter Analytics. I have not yet thought of the specifics that I want to dwell on, but I wanted to relate my study to K-pop since I personally use Twitter as a medium to interact with other K-pop fans like me. | The availablity of data for this is vast. The data comes from what social media users publicly share. Some examples of these data are the user’s location, shared links, and searches. | Statistical method: | The beneficiaries of the study would be social media content creators |
+| Topic                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Availability of Data                                                                                                                                                                    | Statistical Method                                                                                                                                                                                                                       | Beneficiary                                                                                                                                                                                                                                                                                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Social Media Analytics | Now that we are in a digital age, social media has been a major part of our lives. Social media is now always being intersected with data science . This data can be used to support marketing strategies, know the effectivity of campaigns, and to personalize advertisements and content. If I were to propose a particular study, I would want to dwell on the analysis of K-pop fans using Twitter Analytics. I have not yet thought of the specifics that I want to dwell on, but I wanted to relate my study to K-pop since I personally use Twitter as a medium to interact with other K-pop fans like me. | The availability of data for this is vast. The data comes from what social media users publicly share. Some examples of these data are the user’s location, shared links, and searches. | The statistical method I can use is getting the regression analysis of the existing popularity of a specific K-pop group and their Twitter analytics based on the amount of follower and interactions they get on the social media site. | The beneficiaries of the study would be those who support specific K-pop groups and want to keep track and be up to date to their idol’s social media analytics. Those who manage or handle social media sites can also benefit from this study to see which actions on Twitter help boost or increase their audience and popularity. |
+
+Citation:
+
+\[link\]
+<https://www.simplilearn.com/intersection-of-data-science-and-social-media-article#>:\~:text=Social%20media%20analytics%20and%20big,content%20based%20on%20customer%20sentiment.
+\[link\] <https://www.investopedia.com/terms/s/social-data.asp>
+
+
+
+## Jed Matthew San Luis
+
+## Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
+Data science should be taught and appreciated by everyone, for data is crucial in most if not everything people do. As mentioned in class, with the rise of the internet, the numbers of data produced have skyrocketed. Everyone needs to be well-versed in data science because having clean and understandable data for people to consume can lead everyone to make informed decisions. The ability to analyze data would make people less vulnerable to scams and less gullible to false information. This, in turn, would make the internet a safer and less vulnerable place for those that are familiar and well-versed in the field of data science.
+
+## Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
+
+As the pandemic gave me lots of time for manifesting new hobbies and harboring new interests, I have started to be inclined with stocks and cryptocurrency trading. With this, I have started to observe that in trading and interacting with both markets, there is an undeniably large amount of data to process. Data science is evident through this as large amounts of data are cleaned and summarized for beginner-friendly and professional consumption. With data science, the prediction of market trends, the flooring, and ceiling prices for various stocks or cryptocurrency coins are made possible and accurate. About another one of my hobbies, I have also been more active in different video games. I observed that there are also traces of data science in this field of entertainment. There are a lot of data that are cleaned and analyzed by numerous analyst to provide a tier list which determines the "Most Effective Tactics Available" or META that gives an edge to the players. Overall, some various guides and researches solely rely on the data provided by large player bases to determine the standards set in particular games.
+
+## Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+In proposing any topic for any research, I often believe that it is crucial to have a personal interest in the research to be pursued. With this, I would like to propose the topic of data science's importance in different video games, particularly those for competitive play such as League of Legends and Valorant. Both games have a large player base and constantly receive updates that tend to change the standards in their gameplay. The data is being manifested in both games through the players of each game. The data also varies for each patch or update received by the games because it comes with "nerfs" (debuffs), buffs, adjustments, and other changes to different elements within the game. I believe that the large player bases of the mentioned games would greatly benefit from this study. Clean data that could be easily interpreted would help them understand the various METAs more, thus, giving them a greater chance to improve their gameplay and individual performance with statistics. I believe that interpreting and analyzing these data would require descriptive and inferential statistics, depending on the specific data to be discussed as the topic is broad. Whether their goal is to climb through the rankings, or individually be better at the game, or even to simply enjoy the game, the study would benefit them.
+
+## Sources:
+Ho, L. (n.d.). Explainer: What Is A Meta? Arc UNSW Student Life. https://www.arc.unsw.edu.au/blitz/read/explainer-what-is-a-metaquestion. 
+
+https://www.proguides.com
+
+Chappelow, J. (2021, May 19). Statistics Definition. Investopedia. https://www.investopedia.com/terms/s/statistics.asp. 
