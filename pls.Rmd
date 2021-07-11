@@ -61,3 +61,25 @@ Ho, L. (n.d.). Explainer: What Is A Meta? Arc UNSW Student Life. https://www.arc
 https://www.proguides.com
 
 Chappelow, J. (2021, May 19). Statistics Definition. Investopedia. https://www.investopedia.com/terms/s/statistics.asp. 
+
+---
+
+## Ivan Perry Cabanayan
+
+### Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
+Another reason to analyze data, specifically messy data, is for analysts and specialists to interpret and deliver data in a simpler manner for the common man. Messy data is often dismissed by people when presented to them because they may lack the necessary skills to extract the valuable information behind it. This is where data scientists come in and interpret the data and present them in a more understandable medium that will allow people to fully acknowledge the data and their value.
+
+### Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific research.
+
+The applications of data science in banking have helped banks to keep up with other banking companies. One such example is customer segregation, where banks identify and group customers based on their usage of banking services and/or profitability, which allows banks to provide appropriate services to specific groups and strengthen their relationship with the customers. Data science also contributes to banks’ fraud detection systems, where they monitor a customer’s transactional patterns to detect malicious or fraudulent activity.
+
+### Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+#### Registered voters in the Philippines
+Recently, the Comelec announced that there are 60 million registered voters for the 2022 National Elections as of June 17. A census regarding the voters’ profile (age, province, municipality) is summarized and readily available on the Comelec’s official website (https://comelec.gov.ph). Statistical methods such as the measures of central tendency can define the major age range of registered voters. Combined with the voters’ united political sentiment, this analysis can certainly be used by politicians, party lists, and organizations in favor of their campaign and platforms. 
+
+### Sources: 
+https://data-flair.training/blogs/data-science-in-banking/
+
+https://www.rappler.com/nation/elections/comelec-report-registered-voters-as-of-june-2021
