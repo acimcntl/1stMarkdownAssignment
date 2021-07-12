@@ -91,6 +91,12 @@ https://www.rappler.com/nation/elections/comelec-report-registered-voters-as-of-
 ### Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
 
+Institutions may use data science to quickly evaluate massive amounts of data from numerous sources and gain important insights to make better data-driven decisions. Marketing, healthcare, finance, banking, policy work, and other industries all employ data science to some extent.For example, in the corporate world, enterprises can use data science to monitor, track, and record performance measures in order to improve decision-making across the board. Companies can use trend analysis to make crucial decisions about how to better engage customers, improve corporate performance, and increase profitability.
+
+Data Science models can replicate a variety of operations using existing data. As a result, institutions can create a strategy for achieving the greatest possible results. By merging existing data with other data points and producing meaningful insights, Data Science assists firms in identifying and refining the best possible results.
+
+
+
 
 ### Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific research.
 
