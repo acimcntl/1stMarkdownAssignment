@@ -100,4 +100,4 @@ There are numerous ways data science is applied in day-to-day life. One instance
 
 #### Day Trading
 
-Markets such as the stock market, forex, and cryptocurrencies became popular topics of the finance world.
+Markets such as the stock market, forex, and cryptocurrencies became popular topics of the finance world. 
