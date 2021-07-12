@@ -83,3 +83,18 @@ Recently, the Comelec announced that there are 60 million registered voters for 
 https://data-flair.training/blogs/data-science-in-banking/
 
 https://www.rappler.com/nation/elections/comelec-report-registered-voters-as-of-june-2021
+
+
+## Marc Edison Ayuson
+
+### Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
+
+
+### Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific research.
+
+There are numerous ways data science is applied in day-to-day life. One instance is the use of data science in insurance policy making. The insurance underwriter analyzes the data that is relevant to the insurer and insured to calculate the risks of every insurance policy before it is sold as premiums with a definite price, options, and deals that is agreeable for both insurance companies and its customers. 
+
+### Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+#### Day Trading
