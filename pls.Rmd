@@ -84,6 +84,7 @@ https://data-flair.training/blogs/data-science-in-banking/
 
 https://www.rappler.com/nation/elections/comelec-report-registered-voters-as-of-june-2021
 
+---
 
 ## Marc Edison Ayuson
 
@@ -98,3 +99,5 @@ There are numerous ways data science is applied in day-to-day life. One instance
 ### Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
 
 #### Day Trading
+
+Markets such as the stock market, forex, and cryptocurrencies became popular topics of the finance world.
