@@ -112,6 +112,7 @@ The availability of day trading for retail traders are now easily accessible bec
 
 ![ETH Chart 7/12/2021](https://s3.tradingview.com/m/mqeyJzwK_mid.png)
 
+
 ### Sources:
 https://www.investopedia.com/articles/technical/02/010702.asp
 https://www.munichre.com/us-life/en/perspectives/underwriting/how-underwriters-data-scientists-work-together.html
