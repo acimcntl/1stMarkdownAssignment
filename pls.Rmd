@@ -96,14 +96,24 @@ Institutions may use data science to quickly evaluate massive amounts of data fr
 Data Science models can replicate a variety of operations using existing data. As a result, institutions can create a strategy for achieving the greatest possible results. By merging existing data with other data points and producing meaningful insights, Data Science assists firms in identifying and refining the best possible results.
 
 
-
-
 ### Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific research.
 
-There are numerous ways data science is applied in day-to-day life. One instance is the use of data science in insurance policy making. The insurance underwriter analyzes the data that is relevant to the insurer and insured to calculate the risks of every insurance policy before it is sold as premiums with a definite price, options, and deals that is agreeable for both insurance companies and its customers. 
+There are numerous ways data science is applied in day-to-day life. One instance is the use of data science in insurance policy making. The insurance underwriters and data scientists analyze the data that is relevant to the insurer and insured like demographics, customer profile, previous data, and other information to calculate the risks of every insurance policy before it is sold as premiums with a definite price, options, and deals that is agreeable for insurance companies on the policy's ***profitability and sustainability*** and for the ___customers convenience and feeling of security___.
+
+![](https://www.investopedia.com/thmb/kyEMgInnZk1c-45JYLtiXAKlnlY=/2120x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-954994200-91eb63c3bdd4438ab95e344d8c7f5d32.jpg)
 
 ### Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
 
-#### Day Trading
+#### ***Day Trading***
 
-Markets such as the stock market, forex, and cryptocurrencies became popular topics of the finance world. 
+Markets such as the stock market, forex, and cryptocurrencies became popular topics of the finance world. In day trading, professinal tradersor retail traders base their trading decisions based on the news, events, but most importantly, the data from the previous timeframe. There are many tools, such as charts and statistical indicators based from the previous price of the stock, coin, or currency. 
+
+The availability of day trading for retail traders are now easily accessible because of the different platforms for trading. Personally, I would love to use data analysis in the stock market or cryptocurrency to earn some extra money to support my family's expenses. The statistical method that I will use is I will gather data from the chart, searching for price action looking for where the price of stock is the lowest or highest and then conclude on a particular pattern that will maximize my chances of gaining money. Examples of data that are key to trading decisions are the ***price, volatility, volume, trends, market activity, and previous historical data***.
+
+![ETH Chart 7/12/2021](https://s3.tradingview.com/m/mqeyJzwK_mid.png)
+
+### Sources:
+https://www.investopedia.com/articles/technical/02/010702.asp
+https://www.munichre.com/us-life/en/perspectives/underwriting/how-underwriters-data-scientists-work-together.html
+
+---
