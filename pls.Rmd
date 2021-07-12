@@ -118,3 +118,44 @@ https://www.investopedia.com/articles/technical/02/010702.asp
 https://www.munichre.com/us-life/en/perspectives/underwriting/how-underwriters-data-scientists-work-together.html
 
 ---
+
+## Sean Jacob See
+
+### 1. Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
+As data is extremely important in our world today, we have to learn how to use these 
+data properly. This would help people understand trends and improve productivity in 
+any aspect of life. With this, data gives so much information to the user, making it 
+important to clean and organize the data we encounter.
+
+### 2. Cite atleast one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
+
+One application wherein data science is used is within the telecom industry. Telecommunication 
+heavily focus on communication through different mediums like text messages, voice calls, emails, 
+and many more. Through data science and analytics, companies and providers would be able to give 
+users better experiences through the data collected. This would also provide sound decision-making 
+by companies given that their data is used properly. Aside from these, as customers would call 
+customer service to ask about their difficulties, real-time analytics would help them solve these problems as quickly as possible based on the data these companies have. 
+
+### 3. Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+## Sports Analytics
+
+Sports analytics provide teams and fans with a better understanding on the game being played 
+through research on the statistics of players and tendencies to make a move in any kind of 
+situation. This would majorly apply in the sport of basketball which I really enjoy watching, 
+playing, and reading on. As the NBA, the top basketball league, have efficiency ratings and 
+data on the players they have, this would provide with a good amount of available data on their 
+website and many other different websites. Through regression analysis and inferential analysis, 
+we may be able to gather information on the teams and players and understand how different 
+statistics affect each other and how these would help in their development. This would be of 
+benefit to NBA fans in helping them understand how statistics help teams gain an advantage in 
+the games they play.
+
+## Sources:
+
+\[link\]
+<https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications-6e3c89eefa1d>
+
+\[link\]
+<https://onlinedsa.merrimack.edu/nba-analytics-changing-basketball/#:~:text=Like%20other%20professional%20sports%20NBA,on%20the%20professional%20basketball%20court.&text=Almost%20every%20team%20now%20has,players%2025%20times%20per%20second.>
