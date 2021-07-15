@@ -1,0 +1,30 @@
+2nd Markdown Assignment
+================
+Ayuson, Cabanayan, Cantal, San Luis, See
+7/15/2021
+
+### __1. Briefly discuss the Monty Hall problem and share your insights and solution to this brain teaser problem.__
+
+<center>
+<h2>
+The Monty Hall Problem
+</h2>
+</center>
+---
+<center>
+<img src="https://rss.onlinelibrary.wiley.com/cms/asset/8ebcd8a4-8ed5-4fc5-a1e5-1267cf97dcf3/sign696-gra-0001-m.jpg" alt="Monty Hall Problem"/>
+</center>
+---
+
+Monty Hall asks you to choose one of three doors. Behind one door is a car, while behind the other doors are goats. Keep in mind Monty knows what's behind each door. Let's say you pick _Door #1_, but you don't open it right away. Monty opens _Door #3_, which has a goat.
+
+---
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1200px-Monty_open_door.svg.png" width="400" class="center"/>
+</center>
+---
+You are now given the chance to switch doors. **Is it to your advantage to switch doors?**
+
+### __Insights__
+
+Ivan: After initially reading the problem, I was inclined to answer that switching doors would not give any advantage to winning the car. Since two doors remained, it was only a 50-50 chance to win the car or the goat. However, this was a mistake because I did not consider the first part of initially choosing among the three doors.
