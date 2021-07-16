@@ -35,7 +35,11 @@ Jed San Luis: As I read the Monty Hal problem I began to question how I would be
 
 Sean Jacob See: When I first read the Monty Hall problem, I coudln't quite grasp the logic behind having a better chance when switching doors. This really confused me for a long time. I thought to myself that it wouldn't matter whether one door was removed or not. But as I continues to read on it, I was faced with a dillema wherein there are 300 doors instead. This really put my mind to the test as you would have 1/300 chance in getting the door correct at the start. However, as 298 doors were removed, this would push up the probability that the other door is correct significantly. This really helped me understand the logic behind switching doors.
 
-Marc Edison Ayuson:
+Marc Ayuson: I cam across with the Monty Hall Problem a long time ago and I found it really interesting. At first, I thought switching or staying does not really matter because it is hard to think that the odds will change just because of 1 door goat reveal. I decided to find a simulator online and discovered that the chances of winning the car is higher if you switched your choice. This is because at the start, each door has a 1/3 chance of containing the car. When you picked your door with a 1/3 chance of winning, the other unpicked doors are counted as 2/3. When the host revealed that one of the unpicked doors has a goat inside it, the remaining unpicked door still got the 2/3 chance of containing the car.
+
+I used this online simulator and conducted 64 tries each for staying and switching. https://www.mathwarehouse.com/monty-hall-simulation-online/
+
+![](https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/217397061_229157429060316_492602764538628609_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeH39k2i89OEXFm3hD7hqQF3BwTq5jp9GuMHBOrmOn0a45jtEBZpRQ5fU1I6M6MlAoeZ_5-ReHjbtj4_oolnGt-b&_nc_ohc=AWnkVj_8pxEAX_MES1Q&_nc_ht=scontent.fcrk3-1.fna&oh=0b00895abc5449ffcc9fc5ddf7021215&oe=60F5A1AF)
 
 ### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
