@@ -80,10 +80,20 @@ Solution: 58 C 6
 
 ### Chances of Winning
 
+<center>
 ![](https://vectr.com/tmp/b2DMkLA6CD/b18jQKQebD.svg?width=700&height=100&select=b18jQKQebDpage0&fbclid=IwAR01SEsa7UwNQFXlwH5_usKl2P_LV_eqMIqLmFfpL5-5zN26zp02e-qySyc)
 
 ![](https://vectr.com/tmp/a6H2WZrPgt/ckKmnO51.svg?width=640&height=100&select=ckKmnO51page0&fbclid=IwAR2O0W7Cb9duy7n9dWiQQLuRR1zTnR9PiMD2v5HPGQXi8a5IRf6-NL4WP6U)
 
 ![](https://vectr.com/tmp/br32hr0Fo/e146WMgpHK.svg?width=480&height=200&select=e146WMgpHKpage0&fbclid=IwAR0i1X7AmCPTd_9vtwV1xnBqQRAAJzJKt0plVf3DV5yFv9xnhkD65nPmXac)
+</center>
 
 To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, ***it would not be enough compensation***. This is unless the bettor would defy all odds and win earlier with spending less tickets.
+
+---
+
+**Sources**
+
+https://www.statisticshowto.com/probability-and-statistics/monty-hall-problem/
+
+https://statisticsbyjim.com/fun/monty-hall-problem/
