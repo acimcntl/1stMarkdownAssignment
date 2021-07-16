@@ -32,3 +32,18 @@ Ivan Cabanayan: After initially reading the problem, I was inclined to answer th
 Mica Cantal: When I first found out about this brain teaser, I thought that I had an equal chance of winning the car since I had 2 choices left. But when I researched more about the problem and dwelled on it, I found out that if I didn't switch, I only had roughly 1/3 chance of being able to win the car. This then means that I had more chances of winning if I switched doors. So I now believe that it is to my advantage to switch doors.
 
 Jed San Luis: As I read the Monty Hal problem I began to question how I would be able to guess which door has the car behind it. Although, as I am given the information that Monty Hall has the knowledge of where the car is and he opens one door to even out the chances, I can't help but be doubtful of whether I should switch doors. This is considering that his move might be a bluff to scare me off and switch doors because I initially chose correctly, or the other way around. However, I stil believe that the option to switch doors is an advantage for the number of choices have diminished and the rate of success in choosing the right door has increased. 
+
+### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
+
+(Lagay tayo ng pics and explanation for this problem)
+
+We used computation because the order for the PCSO Lotto does not require an order.
+*Pakidagdagan nalang po
+
+Solution: 58 C 6
+=40,475,358 x 20 
+=809,507,160 
+
+50,000,000<809,507,160
+
+To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, it would not be enough compensation. This is unless the bettor would defy all odds and win earlier with spending less tickets.
