@@ -3,7 +3,9 @@
 Ayuson, Cabanayan, Cantal, San Luis, See
 7/15/2021
 
+
 ### __1. Briefly discuss the Monty Hall problem and share your insights and solution to this brain teaser problem.__
+
 
 <center>
 <h2>
@@ -26,27 +28,37 @@ Monty Hall asks you to choose one of three doors. Behind one door is a car, whil
 You are now given the chance to switch doors. **Is it to your advantage to switch doors?**
 
 ### __Insights__
-
+```
 Ivan Cabanayan: After initially reading the problem, I was inclined to answer that switching doors would not give any advantage to winning the car. Since two doors remained, it was only a 50-50 chance to win the car or the goat. However, this was a mistake because I did not consider the first part of initially choosing among the three doors.
+```
 
+```
 Mica Cantal: When I first found out about this brain teaser, I thought that I had an equal chance of winning the car since I had 2 choices left. But when I researched more about the problem and dwelled on it, I found out that if I didn't switch, I only had roughly 1/3 chance of being able to win the car. This then means that I had more chances of winning if I switched doors. So I now believe that it is to my advantage to switch doors.
+```
+```
+Jed San Luis: As I read the Monty Hal problem I began to question how I would be able to guess which door has the car behind it. Although, as I am given the information that Monty Hall has the knowledge of where the car is and he opens one door to even out the chances, I can't help but be doubtful of whether I should switch doors. This is considering that his move might be a bluff to scare me off and switch doors because I initially chose correctly, or the other way around. However, I stil believe that the option to switch doors is an advantage for the number of choices have diminished and the rate of success in choosing the right door has increased.
+```
 
-Jed San Luis: As I read the Monty Hal problem I began to question how I would be able to guess which door has the car behind it. Although, as I am given the information that Monty Hall has the knowledge of where the car is and he opens one door to even out the chances, I can't help but be doubtful of whether I should switch doors. This is considering that his move might be a bluff to scare me off and switch doors because I initially chose correctly, or the other way around. However, I stil believe that the option to switch doors is an advantage for the number of choices have diminished and the rate of success in choosing the right door has increased. 
-
+```
 Sean Jacob See: When I first read the Monty Hall problem, I coudln't quite grasp the logic behind having a better chance when switching doors. This really confused me for a long time. I thought to myself that it wouldn't matter whether one door was removed or not. But as I continues to read on it, I was faced with a dillema wherein there are 300 doors instead. This really put my mind to the test as you would have 1/300 chance in getting the door correct at the start. However, as 298 doors were removed, this would push up the probability that the other door is correct significantly. This really helped me understand the logic behind switching doors.
+```
 
-Marc Ayuson: I cam across with the Monty Hall Problem a long time ago and I found it really interesting. At first, I thought switching or staying does not really matter because it is hard to think that the odds will change just because of 1 door goat reveal. I decided to find a simulator online and discovered that the chances of winning the car is higher if you switched your choice. This is because at the start, each door has a 1/3 chance of containing the car. When you picked your door with a 1/3 chance of winning, the other unpicked doors are counted as 2/3. When the host revealed that one of the unpicked doors has a goat inside it, the remaining unpicked door still got the 2/3 chance of containing the car.
-
-I used this online simulator and conducted 64 tries each for staying and switching. https://www.mathwarehouse.com/monty-hall-simulation-online/
+```
+Marc Ayuson: I came across with the Monty Hall Problem a long time ago and I found it really interesting. At first, I thought switching or staying does not really matter because it is hard to think that the odds will change just because of 1 door goat reveal. I decided to find a simulator online and discovered that the chances of winning the car is higher if you switched your choice. This is because at the start, each door has a 1/3 chance of containing the car. When you picked your door with a 1/3 chance of winning, the other unpicked doors are counted as 2/3. When the host revealed that one of the unpicked doors has a goat inside it, the remaining unpicked door still got the 2/3 chance of containing the car.
+```
+*I used this online simulator and conducted 64 tries each for staying and switching. https://www.mathwarehouse.com/monty-hall-simulation-online/ *
 
 ![](https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/217397061_229157429060316_492602764538628609_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeH39k2i89OEXFm3hD7hqQF3BwTq5jp9GuMHBOrmOn0a45jtEBZpRQ5fU1I6M6MlAoeZ_5-ReHjbtj4_oolnGt-b&_nc_ohc=AWnkVj_8pxEAX_MES1Q&_nc_ht=scontent.fcrk3-1.fna&oh=0b00895abc5449ffcc9fc5ddf7021215&oe=60F5A1AF)
 
+
+***
+
 ### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
-(Lagay tayo ng pics and explanation for this problem)
+![](https://www.panaynews.net/wp-content/uploads/2018/09/LOTTO-BALLS.jpg)
 
 We used computation because the order for the PCSO Lotto does not require an order.
-*Pakidagdagan nalang po
+
 
 Solution: 58 C 6
 =40,475,358 x 20 
@@ -54,4 +66,4 @@ Solution: 58 C 6
 
 50,000,000<809,507,160
 
-To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, it would not be enough compensation. This is unless the bettor would defy all odds and win earlier with spending less tickets.
+To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, ***it would not be enough compensation***. This is unless the bettor would defy all odds and win earlier with spending less tickets.
