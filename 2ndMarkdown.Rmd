@@ -33,6 +33,10 @@ Mica Cantal: When I first found out about this brain teaser, I thought that I ha
 
 Jed San Luis: As I read the Monty Hal problem I began to question how I would be able to guess which door has the car behind it. Although, as I am given the information that Monty Hall has the knowledge of where the car is and he opens one door to even out the chances, I can't help but be doubtful of whether I should switch doors. This is considering that his move might be a bluff to scare me off and switch doors because I initially chose correctly, or the other way around. However, I stil believe that the option to switch doors is an advantage for the number of choices have diminished and the rate of success in choosing the right door has increased. 
 
+Sean Jacob See: 
+
+Marc Edison Ayuson:
+
 ### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
 (Lagay tayo ng pics and explanation for this problem)
