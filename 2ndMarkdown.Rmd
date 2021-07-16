@@ -48,18 +48,26 @@ Marc Ayuson: I came across with the Monty Hall Problem a long time ago and I fou
 ```
 *I used this online simulator and conducted 64 tries each for staying and switching. https://www.mathwarehouse.com/monty-hall-simulation-online/ *
 
-![](https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/217397061_229157429060316_492602764538628609_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeH39k2i89OEXFm3hD7hqQF3BwTq5jp9GuMHBOrmOn0a45jtEBZpRQ5fU1I6M6MlAoeZ_5-ReHjbtj4_oolnGt-b&_nc_ohc=AWnkVj_8pxEAX_MES1Q&_nc_ht=scontent.fcrk3-1.fna&oh=0b00895abc5449ffcc9fc5ddf7021215&oe=60F5A1AF)
+<center>
+<img src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/217397061_229157429060316_492602764538628609_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeH39k2i89OEXFm3hD7hqQF3BwTq5jp9GuMHBOrmOn0a45jtEBZpRQ5fU1I6M6MlAoeZ_5-ReHjbtj4_oolnGt-b&_nc_ohc=AWnkVj_8pxEAX_MES1Q&_nc_ht=scontent.fcrk3-1.fna&oh=0b00895abc5449ffcc9fc5ddf7021215&oe=60F5A1AF" width="500" class="center"/>
+</center>
+
+
 
 By considering the door picked at the start of the problem in the computation, we overcome the statistical illusion of a 50% chance of winning based on the last two doors. Below is a table summarizing all 9 possible outcomes of the Monty Hall problem.
 
-![](https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/217845028_1897685927056675_3253868070866213798_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEVpBBcmHFFPiU2oxslGqTMisXWxAVi9gaKxdbEBWL2BnBq4yADne7lffQuCHke2mpYxsY_CLNL7N-crz7LE0GZ&_nc_ohc=_PATNv8stD0AX-yZSH2&tn=DfyVncDh1HuZnHEh&_nc_ht=scontent.fmnl4-2.fna&oh=849d39285cb96b25b6904bffffd64337&oe=60F64387)
+
+<center>
+<img src="https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/217845028_1897685927056675_3253868070866213798_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEVpBBcmHFFPiU2oxslGqTMisXWxAVi9gaKxdbEBWL2BnBq4yADne7lffQuCHke2mpYxsY_CLNL7N-crz7LE0GZ&_nc_ohc=_PATNv8stD0AX-yZSH2&tn=DfyVncDh1HuZnHEh&_nc_ht=scontent.fmnl4-2.fna&oh=849d39285cb96b25b6904bffffd64337&oe=60F64387" width="500" class="center"/>
+</center>
+
+***
 
 ### __2. One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
-
-![](https://www.panaynews.net/wp-content/uploads/2018/09/LOTTO-BALLS.jpg)
-
-
+<center>
+<img src="https://www.panaynews.net/wp-content/uploads/2018/09/LOTTO-BALLS.jpg" width="500" class="center"/>
+</center>
 
 We used computation because the order for the PCSO Lotto does not require an order.
 
