@@ -50,10 +50,11 @@ Marc Ayuson: I came across with the Monty Hall Problem a long time ago and I fou
 
 ![](https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/217397061_229157429060316_492602764538628609_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeH39k2i89OEXFm3hD7hqQF3BwTq5jp9GuMHBOrmOn0a45jtEBZpRQ5fU1I6M6MlAoeZ_5-ReHjbtj4_oolnGt-b&_nc_ohc=AWnkVj_8pxEAX_MES1Q&_nc_ht=scontent.fcrk3-1.fna&oh=0b00895abc5449ffcc9fc5ddf7021215&oe=60F5A1AF)
 
+By considering the door picked at the start of the problem in the computation, we overcome the statistical illusion of a 50% chance of winning based on the last two doors. Below is a table summarizing all 9 possible outcomes of the Monty Hall problem.
 
-***
+![](https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/217845028_1897685927056675_3253868070866213798_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEVpBBcmHFFPiU2oxslGqTMisXWxAVi9gaKxdbEBWL2BnBq4yADne7lffQuCHke2mpYxsY_CLNL7N-crz7LE0GZ&_nc_ohc=_PATNv8stD0AX-yZSH2&tn=DfyVncDh1HuZnHEh&_nc_ht=scontent.fmnl4-2.fna&oh=849d39285cb96b25b6904bffffd64337&oe=60F64387)
 
-### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
+### __2. One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
 
 ![](https://www.panaynews.net/wp-content/uploads/2018/09/LOTTO-BALLS.jpg)
@@ -69,10 +70,12 @@ Solution: 58 C 6
 
 50,000,000<809,507,160
 
-#Chances of Winning
+### Chances of Winning
 
 ![](https://vectr.com/tmp/b2DMkLA6CD/b18jQKQebD.svg?width=700&height=100&select=b18jQKQebDpage0&fbclid=IwAR01SEsa7UwNQFXlwH5_usKl2P_LV_eqMIqLmFfpL5-5zN26zp02e-qySyc)
+
 ![](https://vectr.com/tmp/a6H2WZrPgt/ckKmnO51.svg?width=640&height=100&select=ckKmnO51page0&fbclid=IwAR2O0W7Cb9duy7n9dWiQQLuRR1zTnR9PiMD2v5HPGQXi8a5IRf6-NL4WP6U)
-![](https://vectr.com/tmp/br32hr0Fo/e146WMgpHK.svg?width=240&height=100&select=e146WMgpHKpage0&fbclid=IwAR0i1X7AmCPTd_9vtwV1xnBqQRAAJzJKt0plVf3DV5yFv9xnhkD65nPmXac)
+
+![](https://vectr.com/tmp/br32hr0Fo/e146WMgpHK.svg?width=480&height=200&select=e146WMgpHKpage0&fbclid=IwAR0i1X7AmCPTd_9vtwV1xnBqQRAAJzJKt0plVf3DV5yFv9xnhkD65nPmXac)
 
 To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, ***it would not be enough compensation***. This is unless the bettor would defy all odds and win earlier with spending less tickets.
