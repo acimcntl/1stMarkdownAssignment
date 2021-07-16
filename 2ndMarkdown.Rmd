@@ -33,7 +33,7 @@ Mica Cantal: When I first found out about this brain teaser, I thought that I ha
 
 Jed San Luis: As I read the Monty Hal problem I began to question how I would be able to guess which door has the car behind it. Although, as I am given the information that Monty Hall has the knowledge of where the car is and he opens one door to even out the chances, I can't help but be doubtful of whether I should switch doors. This is considering that his move might be a bluff to scare me off and switch doors because I initially chose correctly, or the other way around. However, I stil believe that the option to switch doors is an advantage for the number of choices have diminished and the rate of success in choosing the right door has increased. 
 
-Sean Jacob See: 
+Sean Jacob See: When I first read the Monty Hall problem, I coudln't quite grasp the logic behind having a better chance when switching doors. This really confused me for a long time. I thought to myself that it wouldn't matter whether one door was removed or not. But as I continues to read on it, I was faced with a dillema wherein there are 300 doors instead. This really put my mind to the test as you would have 1/300 chance in getting the door correct at the start. However, as 298 doors were removed, this would push up the probability that the other door is correct significantly. This really helped me understand the logic behind switching doors.
 
 Marc Edison Ayuson:
 
