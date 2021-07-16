@@ -55,7 +55,10 @@ Marc Ayuson: I came across with the Monty Hall Problem a long time ago and I fou
 
 ### __One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?__
 
+
 ![](https://www.panaynews.net/wp-content/uploads/2018/09/LOTTO-BALLS.jpg)
+
+
 
 We used computation because the order for the PCSO Lotto does not require an order.
 
@@ -65,5 +68,11 @@ Solution: 58 C 6
 =809,507,160 
 
 50,000,000<809,507,160
+
+#Chances of Winning
+
+![](https://vectr.com/tmp/b2DMkLA6CD/b18jQKQebD.svg?width=700&height=100&select=b18jQKQebDpage0&fbclid=IwAR01SEsa7UwNQFXlwH5_usKl2P_LV_eqMIqLmFfpL5-5zN26zp02e-qySyc)
+![](https://vectr.com/tmp/a6H2WZrPgt/ckKmnO51.svg?width=640&height=100&select=ckKmnO51page0&fbclid=IwAR2O0W7Cb9duy7n9dWiQQLuRR1zTnR9PiMD2v5HPGQXi8a5IRf6-NL4WP6U)
+![](https://vectr.com/tmp/br32hr0Fo/e146WMgpHK.svg?width=240&height=100&select=e146WMgpHKpage0&fbclid=IwAR0i1X7AmCPTd_9vtwV1xnBqQRAAJzJKt0plVf3DV5yFv9xnhkD65nPmXac)
 
 To conclude the bettor would most likely invest a large amount of both time and money to win the lottery, basing on the computations, the bettor would be met with a massive loss that even if they hit the jackpot of 50 million, ***it would not be enough compensation***. This is unless the bettor would defy all odds and win earlier with spending less tickets.
